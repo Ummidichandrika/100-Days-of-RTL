@@ -7,3 +7,8 @@ Day 5: Parity Generator
 Day 6: Binary to One Hot Encoder
 Day 7: 4-bit BCD Synchronous Counter
 Day 8: 4-bit Carry LookAhead Adder
+Day 9: N-bit Comparator
+Day 10: Serial in Serial Out Shift Register
+Day 11: Serial in Parallel Out Shift Register
+Day 12: Parallel in Parallel Out Register
+Day 13: Parallel In Serial Out Register

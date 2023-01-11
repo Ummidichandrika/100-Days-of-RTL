@@ -1,10 +1,12 @@
 WELCOME TO MY 100DAYSOFRTL
+
+
+
+
+
+
+
 Here is the list of Day wise RTL Codes:
-
-
-
-
-# 100-Days-of-RTL
 Day 1 : Clock Divider
 Day 2 : Johnson Counter
 Day 3: Ring Counter
@@ -18,3 +20,9 @@ Day 10: Serial in Serial Out Shift Register
 Day 11: Serial in Parallel Out Shift Register
 Day 12: Parallel in Parallel Out Register
 Day 13: Parallel In Serial Out Register
+Day 14: Biderection Shift Register
+Day 15: PRBS Sequence Generator
+Day 16: 8-Bit Subtractor
+Day 17: 8-Bit Adder/Subtractor
+Day 18: 4-bit Multiplier
+Day 19: Fixed Point Division

@@ -1,3 +1,9 @@
+WELCOME TO MY 100DAYSOFRTL
+Here is the list of Day wise RTL Codes:
+
+
+
+
 # 100-Days-of-RTL
 Day 1 : Clock Divider
 Day 2 : Johnson Counter

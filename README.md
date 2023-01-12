@@ -57,3 +57,5 @@ Day 18: 4-bit Multiplier
 
 
 Day 19: Fixed Point Division
+
+Day 20: Master Slave JK Flip Flop

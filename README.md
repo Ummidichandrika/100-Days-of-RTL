@@ -41,7 +41,7 @@ Day 12: Parallel in Parallel Out Register
 Day 13: Parallel In Serial Out Register
 
 
-Day 14: Biderection Shift Register
+Day 14: Bidirection Shift Register
 
 
 Day 15: PRBS Sequence Generator
@@ -59,3 +59,5 @@ Day 18: 4-bit Multiplier
 Day 19: Fixed Point Division
 
 Day 20: Master Slave JK Flip Flop
+
+Day 21: Positive Edge Detector

@@ -61,3 +61,12 @@ Day 19: Fixed Point Division
 Day 20: Master Slave JK Flip Flop
 
 Day 21: Positive Edge Detector
+
+Day 22:	BCD adder
+
+Day 23:	4-bit Carry Select Adder
+
+Day 24:	Moore FSM 1010 Sequence detector
+
+Day 25:	N:1 Mux
+

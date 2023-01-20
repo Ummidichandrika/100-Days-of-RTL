@@ -70,3 +70,10 @@ Day 24:	Moore FSM 1010 Sequence detector
 
 Day 25:	N:1 Mux
 
+Day 26: BCD TimeCount
+
+Day 27: 3-1 Mux
+
+Day 28: BCD to Seven Segment Display
+
+

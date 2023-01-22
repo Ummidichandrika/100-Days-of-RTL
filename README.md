@@ -76,4 +76,7 @@ Day 27: 3-1 Mux
 
 Day 28: BCD to Seven Segment Display
 
+Day 29: D Latch using 2:1 MUX
+
+Day 30: 8-Bit Barrel Shifter
 

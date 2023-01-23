@@ -81,3 +81,5 @@ Day 29: D Latch using 2:1 MUX
 
 Day 30: 8-Bit Barrel Shifter
 
+Day 31: 1-bit Comparator using 4X1 Mux
+

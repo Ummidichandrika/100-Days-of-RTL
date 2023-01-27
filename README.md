@@ -83,3 +83,11 @@ Day 30: 8-Bit Barrel Shifter
 
 Day 31: 1-bit Comparator using 4X1 Mux
 
+Day 32: Logical, Algebraic, and Rotate Shift Operations
+
+Day 33: ALU
+
+Day 34: 4-Bit Asynchronous Down Counter
+
+Day 35: Mod-N UpDown Counter
+

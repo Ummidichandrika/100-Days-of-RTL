@@ -1,6 +1,6 @@
 WELCOME TO MY 100DAYSOFRTL
 
-My Name is Ummidi Chandrika, I am doing 100daysofrtl in Xilinx ISE 14.7 and ModelSim Software. 
+My Name is Ummidi Chandrika, I mostly use Xilinx ISE 14.7 Design Suite and sometimes Modelsim software for the simulation of RTL Codes. And The Synthesis is performed by using Intel Quartus Prime Software.
 
 
 Here is the list of Day wise RTL Codes:
@@ -94,4 +94,6 @@ Day 34: 4-Bit Asynchronous Down Counter
 Day 35: Mod-N UpDown Counter
 
 Day 36: Universal Binary Counter
+
+Day 37: Universal Shift Register
 

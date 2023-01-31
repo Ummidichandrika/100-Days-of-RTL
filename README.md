@@ -97,3 +97,7 @@ Day 36: Universal Binary Counter
 
 Day 37: Universal Shift Register
 
+Day 38: CN( Change-No change Flipflop) using 2:1 Mux
+
+Day 39: Frequency divider by odd Numbers
+

@@ -101,3 +101,11 @@ Day 38: CN( Change-No change Flipflop) using 2:1 Mux
 
 Day 39: Frequency divider by odd Numbers
 
+Day 40: Greatest Common Divisor using Behavioural Modelling
+
+Day 41: Greatest Common Divisor via FSM
+
+Day 42: Single Port RAM
+
+Day 43: Dual Port RAM
+

@@ -111,3 +111,8 @@ Day 43: Dual Port RAM
 
 Day 44: Clock Buffer
 
+Day 45: Synchronous FIFO
+
+Day 46: Priority Encoder
+
+Day 47: Seven Segment Display Using ROM

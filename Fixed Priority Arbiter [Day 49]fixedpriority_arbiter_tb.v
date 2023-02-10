@@ -35,4 +35,4 @@ end
 initial begin
 $monitor("REQ=%b,GNT=%b,reset=%b",REQ,GNT,reset);
 end
-endmodule
+endmodule 

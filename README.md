@@ -116,3 +116,7 @@ Day 45: Synchronous FIFO
 Day 46: Priority Encoder
 
 Day 47: Seven Segment Display Using ROM
+
+Day 48: Serial Adder
+
+Day 49: Fixed Priority Arbiter

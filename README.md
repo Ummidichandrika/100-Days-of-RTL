@@ -120,3 +120,5 @@ Day 47: Seven Segment Display Using ROM
 Day 48: Serial Adder
 
 Day 49: Fixed Priority Arbiter
+
+Day 50: Round Robin Arbiter

@@ -122,3 +122,17 @@ Day 48: Serial Adder
 Day 49: Fixed Priority Arbiter
 
 Day 50: Round Robin Arbiter
+
+SYSTEM VERILOG
+
+Day 51: TB Hello World
+
+Day 52: TB LOgic Data Type
+
+Day 53: TB Unpacked Struct Data Type
+
+Day 54:TB Packed Struct Data Type
+
+Day 55: TB Arrays
+
+Day 56: TB Functions

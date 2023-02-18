@@ -1,0 +1,22 @@
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: Function using argument pass by Name
+# KERNEL: 	Value of x = 2023, y = Hello World
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: Function using argument pass by value
+# KERNEL: 	Value of x = 20
+# KERNEL: 	Value of y = 30
+# KERNEL: 	Value of z = 80
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: Function using argument pass by Reference
+# KERNEL: 	Value of p = 50
+# KERNEL: 	Value of q = 30
+# KERNEL: 	Value of r = 80
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: Function using default arguments
+# KERNEL: 	Value of d = 25
+# KERNEL: -----------------------------------------------------------------
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

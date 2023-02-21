@@ -1,0 +1,26 @@
+--------------------------
+# KERNEL: Before changing s1.ds
+# KERNEL: Value of s1 : 34
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: Value of s1 : 45
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: Value of s2 : 45
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: After changing S2.ds
+# KERNEL: Value of s1 ds: 45
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: Value of s2 ds: 78
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: After changing S2.f1.data
+# KERNEL: Value of s1 data : 12
+# KERNEL: --------------------------
+# KERNEL: --------------------------
+# KERNEL: Value of s2 data : 98
+# KERNEL: --------------------------
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.

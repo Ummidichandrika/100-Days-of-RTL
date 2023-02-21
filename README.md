@@ -142,3 +142,5 @@ Day 57: TB Tasks
 Day 58: TB Interfaces
 
 Day 59: TB Object Assignment & Shallow Copy Methods   https://www.edaplayground.com/x/7qUQ
+
+Day 60: TB Deep Copy Method                           https://www.edaplayground.com/x/Fj5c

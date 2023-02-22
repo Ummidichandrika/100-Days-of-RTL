@@ -1,0 +1,5 @@
+# KERNEL: [Parent] addr=0xff
+# KERNEL: [Child] addr=0xff
+# KERNEL: [Child] data=45
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.

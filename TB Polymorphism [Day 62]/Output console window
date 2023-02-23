@@ -1,0 +1,8 @@
+# KERNEL: Parent: Value of data = 60, id = 471
+# KERNEL: Parent: Value of data = 60, id = 471
+# KERNEL: Child_A: Value of data = 200, id = 2
+# KERNEL: Child_B: Value of data = 300, id = 3
+# KERNEL: Child_A: Value of data = 100, id = 1
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

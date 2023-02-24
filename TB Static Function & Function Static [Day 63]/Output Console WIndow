@@ -1,0 +1,57 @@
+# KERNEL: ---------------------------
+# KERNEL: Function Static
+# KERNEL: For a_obj : 
+# KERNEL: ---------------------------
+# KERNEL: a_var = 1
+# KERNEL: b_var = 1
+# KERNEL: a_var = 2
+# KERNEL: b_var = 2
+# KERNEL: a_var = 3
+# KERNEL: b_var = 3
+# KERNEL: a_var = 4
+# KERNEL: b_var = 4
+# KERNEL: a_var = 5
+# KERNEL: b_var = 5
+# KERNEL: ---------------------------
+# KERNEL: For b_obj : 
+# KERNEL: ---------------------------
+# KERNEL: a_var = 6
+# KERNEL: b_var = 1
+# KERNEL: a_var = 7
+# KERNEL: b_var = 2
+# KERNEL: a_var = 8
+# KERNEL: b_var = 3
+# KERNEL: a_var = 9
+# KERNEL: b_var = 4
+# KERNEL: a_var = 10
+# KERNEL: b_var = 5
+# KERNEL: ---------------------------
+# KERNEL:  Static Function
+# KERNEL: For a_var : 
+# KERNEL: ---------------------------
+# KERNEL: y_var = 1
+# KERNEL: x_var = 1
+# KERNEL: y_var = 1
+# KERNEL: x_var = 2
+# KERNEL: y_var = 1
+# KERNEL: x_var = 3
+# KERNEL: y_var = 1
+# KERNEL: x_var = 4
+# KERNEL: y_var = 1
+# KERNEL: x_var = 5
+# KERNEL: ---------------------------
+# KERNEL: For b_var : 
+# KERNEL: ---------------------------
+# KERNEL: y_var = 1
+# KERNEL: x_var = 6
+# KERNEL: y_var = 1
+# KERNEL: x_var = 7
+# KERNEL: y_var = 1
+# KERNEL: x_var = 8
+# KERNEL: y_var = 1
+# KERNEL: x_var = 9
+# KERNEL: y_var = 1
+# KERNEL: x_var = 10
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

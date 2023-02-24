@@ -148,3 +148,5 @@ Day 60: TB Deep Copy Method                           https://www.edaplayground.
 Day 61: TB Inheritance  https://www.edaplayground.com/x/Bwj3
 
 Day 62: TB Polymorphism https://www.edaplayground.com/x/CkqF
+
+Day 63: TB to Verify Static Function and FUnction Static Methods https://www.edaplayground.com/x/PpHC

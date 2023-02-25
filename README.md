@@ -150,3 +150,5 @@ Day 61: TB Inheritance  https://www.edaplayground.com/x/Bwj3
 Day 62: TB Polymorphism https://www.edaplayground.com/x/CkqF
 
 Day 63: TB to Verify Static Function and FUnction Static Methods https://www.edaplayground.com/x/PpHC
+
+Day 64: TB to verify Parameterized Class https://www.edaplayground.com/x/BzrE

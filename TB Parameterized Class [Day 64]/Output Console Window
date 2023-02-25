@@ -1,0 +1,8 @@
+# KERNEL: p1.out   = 16 bits
+# KERNEL: p2.out   = 8 bits
+# KERNEL: st.item = -446
+# KERNEL: bs.item = 11
+# KERNEL: rs.item = 13.14
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

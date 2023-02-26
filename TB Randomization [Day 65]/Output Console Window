@@ -1,0 +1,41 @@
+# KERNEL:  addr1 is 0001 
+# KERNEL:  addr2 is 1011 
+# KERNEL: Value of addr1 :1 and addr2: 11
+# KERNEL:  addr1 is 1010 
+# KERNEL:  addr2 is 0000 
+# KERNEL: Value of addr1 :10 and addr2: 0
+# KERNEL:  addr1 is 1000 
+# KERNEL:  addr2 is 1110 
+# KERNEL: Value of addr1 :8 and addr2: 14
+# KERNEL:  addr1 is 0100 
+# KERNEL:  addr2 is 0001 
+# KERNEL: Value of addr1 :4 and addr2: 1
+# KERNEL:  addr1 is 1101 
+# KERNEL:  addr2 is 0011 
+# KERNEL: Value of addr1 :13 and addr2: 3
+# KERNEL:  addr1 is 0000 
+# KERNEL:  addr2 is 1101 
+# KERNEL: Value of addr1 :0 and addr2: 13
+# KERNEL:  addr1 is 0110 
+# KERNEL:  addr2 is 1000 
+# KERNEL: Value of addr1 :6 and addr2: 8
+# KERNEL:  addr1 is 1000 
+# KERNEL:  addr2 is 1010 
+# KERNEL: Value of addr1 :8 and addr2: 10
+# KERNEL:  addr1 is 1011 
+# KERNEL:  addr2 is 0100 
+# KERNEL: Value of addr1 :11 and addr2: 4
+# KERNEL:  addr1 is 0001 
+# KERNEL:  addr2 is 0111 
+# KERNEL: Value of addr1 :1 and addr2: 7
+# KERNEL:  addr1 is 1100 
+# KERNEL:  addr2 is 1001 
+# KERNEL:  addr1 is 1010 
+# KERNEL:  addr2 is 0010 
+# KERNEL:  addr1 is 0111 
+# KERNEL:  addr2 is 0110 
+# KERNEL:  addr1 is 0101 
+# KERNEL:  addr2 is 1100 
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

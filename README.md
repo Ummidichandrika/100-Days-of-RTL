@@ -154,3 +154,7 @@ Day 63: TB to Verify Static Function and FUnction Static Methods https://www.eda
 Day 64: TB to verify Parameterized Class https://www.edaplayground.com/x/BzrE
 
 Day 65: TB to verify Randomization https://www.edaplayground.com/x/JdvY
+
+Day 66: TB Interface to Verify Clocking Blocks 
+
+Day 67: TB Interfaces  https://www.edaplayground.com/x/Jgh9

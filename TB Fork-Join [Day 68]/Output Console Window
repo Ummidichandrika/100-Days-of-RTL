@@ -1,0 +1,8 @@
+# KERNEL: [0] Main Thread: Fork join will start
+# KERNEL: [10] Thread2
+# KERNEL: [20] Thread1_0
+# KERNEL: [30] Thread1_1
+# KERNEL: [30] Main Thread: Fork join has finished
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

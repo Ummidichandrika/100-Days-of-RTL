@@ -157,4 +157,6 @@ Day 65: TB to verify Randomization https://www.edaplayground.com/x/JdvY
 
 Day 66: TB Interface to Verify Clocking Blocks https://www.edaplayground.com/x/Lm4W
 
-Day 67: TB Interfaces  https://www.edaplayground.com/x/Jgh9
+Day 67: TB Fork-Join None  https://www.edaplayground.com/x/Jgh9
+
+Day 68: TB Fork- Join https://www.edaplayground.com/x/GVus

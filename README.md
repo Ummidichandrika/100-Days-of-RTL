@@ -160,3 +160,5 @@ Day 66: TB Interface to Verify Clocking Blocks https://www.edaplayground.com/x/L
 Day 67: TB Fork-Join None  https://www.edaplayground.com/x/Jgh9
 
 Day 68: TB Fork- Join https://www.edaplayground.com/x/GVus
+
+Day 69: TB Fork - Join Any https://www.edaplayground.com/x/vnBD

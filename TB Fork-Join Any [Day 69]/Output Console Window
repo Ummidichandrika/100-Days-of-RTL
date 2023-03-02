@@ -1,0 +1,13 @@
+# KERNEL:                    0 T0 - Started..
+# KERNEL:                    0 T1 - Started..
+# KERNEL:                    0 T2 - Started..
+# KERNEL:                   10 T2 - Finished
+# KERNEL: After fork join_any
+# KERNEL:                   15 T0 - Finished
+# KERNEL:                   30 T1 - Finished
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (29): $finish called.
+# KERNEL: Time: 40 ns,  Iteration: 0,  Instance: /fork_join_any,  Process: @INITIAL#26_4@.
+# KERNEL: stopped at time: 40 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

@@ -162,3 +162,6 @@ Day 67: TB Fork-Join None  https://www.edaplayground.com/x/Jgh9
 Day 68: TB Fork- Join https://www.edaplayground.com/x/GVus
 
 Day 69: TB Fork - Join Any https://www.edaplayground.com/x/vnBD
+
+Day 70: TB Events  https://www.edaplayground.com/x/Ac9G
+

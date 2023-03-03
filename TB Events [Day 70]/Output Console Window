@@ -1,0 +1,26 @@
+# KERNEL: Data Sent : 303379748
+# KERNEL: Data Sent : -1064739199
+# KERNEL: Data Received : -1064739199
+# KERNEL: Data Sent : -2071669239
+# KERNEL: Data Received : -2071669239
+# KERNEL: Data Sent : -1309649309
+# KERNEL: Data Received : -1309649309
+# KERNEL: Data Sent : 112818957
+# KERNEL: Data Received : 112818957
+# KERNEL: Data Sent : 1189058957
+# KERNEL: Data Received : 1189058957
+# KERNEL: Data Sent : -1295874971
+# KERNEL: Data Received : -1295874971
+# KERNEL: Data Sent : -1992863214
+# KERNEL: Data Received : -1992863214
+# KERNEL: Data Sent : 15983361
+# KERNEL: Data Received : 15983361
+# KERNEL: Data Sent : 114806029
+# KERNEL: Data Received : 114806029
+# KERNEL: Data Received : 114806029
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (32): $finish called.
+# KERNEL: Time: 100 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#30_2@.
+# KERNEL: stopped at time: 100 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

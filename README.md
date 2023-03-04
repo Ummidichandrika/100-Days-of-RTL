@@ -165,3 +165,5 @@ Day 69: TB Fork - Join Any https://www.edaplayground.com/x/vnBD
 
 Day 70: TB Events  https://www.edaplayground.com/x/Ac9G
 
+Day 71 : TB Mailbox Example-1 https://www.edaplayground.com/x/AWbU
+

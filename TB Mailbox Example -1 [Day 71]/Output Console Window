@@ -1,0 +1,23 @@
+# KERNEL:  data send is  4 
+# KERNEL:  data send is  1 
+# KERNEL:  data send is  9 
+# KERNEL:  data send is  3 
+# KERNEL:  data send is 13 
+# KERNEL:  data send is 13 
+# KERNEL:  data send is  5 
+# KERNEL:  data send is  2 
+# KERNEL:  data send is  1 
+# KERNEL:  data send is 13 
+# KERNEL:  data received is  4 
+# KERNEL:  data received is  1 
+# KERNEL:  data received is  9 
+# KERNEL:  data received is  3 
+# KERNEL:  data received is 13 
+# KERNEL:  data received is 13 
+# KERNEL:  data received is  5 
+# KERNEL:  data received is  2 
+# KERNEL:  data received is  1 
+# KERNEL:  data received is 13 
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

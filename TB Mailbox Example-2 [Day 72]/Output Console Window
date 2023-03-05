@@ -1,0 +1,23 @@
+# KERNEL: [GEN] : DATA SENT : din1 : 4 and din2 : 10
+# KERNEL: [DRV] : DATA Received : din1 : 4 and din2 : 10
+# KERNEL: [GEN] : DATA SENT : din1 : 1 and din2 : 5
+# KERNEL: [DRV] : DATA Received : din1 : 1 and din2 : 5
+# KERNEL: [GEN] : DATA SENT : din1 : 7 and din2 : 14
+# KERNEL: [DRV] : DATA Received : din1 : 7 and din2 : 14
+# KERNEL: [GEN] : DATA SENT : din1 : 14 and din2 : 1
+# KERNEL: [DRV] : DATA Received : din1 : 14 and din2 : 1
+# KERNEL: [GEN] : DATA SENT : din1 : 12 and din2 : 3
+# KERNEL: [DRV] : DATA Received : din1 : 12 and din2 : 3
+# KERNEL: [GEN] : DATA SENT : din1 : 6 and din2 : 3
+# KERNEL: [DRV] : DATA Received : din1 : 6 and din2 : 3
+# KERNEL: [GEN] : DATA SENT : din1 : 14 and din2 : 14
+# KERNEL: [DRV] : DATA Received : din1 : 14 and din2 : 14
+# KERNEL: [GEN] : DATA SENT : din1 : 8 and din2 : 15
+# KERNEL: [DRV] : DATA Received : din1 : 8 and din2 : 15
+# KERNEL: [GEN] : DATA SENT : din1 : 15 and din2 : 9
+# KERNEL: [DRV] : DATA Received : din1 : 15 and din2 : 9
+# KERNEL: [GEN] : DATA SENT : din1 : 15 and din2 : 10
+# KERNEL: [DRV] : DATA Received : din1 : 15 and din2 : 10
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

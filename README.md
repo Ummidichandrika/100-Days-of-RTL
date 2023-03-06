@@ -169,3 +169,5 @@ Day 71 : TB Mailbox Example-1 https://www.edaplayground.com/x/AWbU
 
 Day 72: TB for Sending Transaction Data with Mailbox  https://www.edaplayground.com/x/MpBg
 
+Day 73: TB Parameterized Mailbox  https://www.edaplayground.com/x/6kNx
+

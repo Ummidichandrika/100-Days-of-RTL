@@ -171,3 +171,5 @@ Day 72: TB for Sending Transaction Data with Mailbox  https://www.edaplayground.
 
 Day 73: TB Parameterized Mailbox  https://www.edaplayground.com/x/6kNx
 
+Day 74: TB Semaphore https://www.edaplayground.com/x/UsBu
+

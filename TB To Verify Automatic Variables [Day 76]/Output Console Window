@@ -1,0 +1,13 @@
+# KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL:                    1 Thread[0] finished
+# KERNEL:                    2 Thread[4] finished
+# KERNEL:                    3 Thread[6] finished
+# KERNEL:                    3 Thread[2] finished
+# KERNEL:                    4 Thread[7] finished
+# KERNEL:                    4 Thread[5] finished
+# KERNEL:                    6 Thread[1] finished
+# KERNEL:                   10 Thread[3] finished
+# KERNEL: ****After wait work*****
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+Done

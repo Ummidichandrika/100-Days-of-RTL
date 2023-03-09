@@ -173,3 +173,8 @@ Day 73: TB Parameterized Mailbox  https://www.edaplayground.com/x/6kNx
 
 Day 74: TB Semaphore https://www.edaplayground.com/x/UsBu
 
+Day 75- TB Wait Fork
+
+Day 76- TB Automatic Variables https://www.edaplayground.com/x/LayF
+
+

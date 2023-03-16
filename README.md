@@ -179,4 +179,6 @@ Day 76- TB Automatic Variables https://www.edaplayground.com/x/LayF
 
 Day 77- TB to Verify D-Flipflop  https://www.edaplayground.com/x/VTk5
 
+Day 78 - TB to Verify Half Adder  https://www.edaplayground.com/x/ie4d
+
 

@@ -181,4 +181,6 @@ Day 77- TB to Verify D-Flipflop  https://www.edaplayground.com/x/VTk5
 
 Day 78 - TB to Verify Half Adder  https://www.edaplayground.com/x/ie4d
 
+Day 79: TB to Verify Full adder   https://www.edaplayground.com/x/r_wr
+
 

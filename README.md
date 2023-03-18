@@ -183,4 +183,6 @@ Day 78 - TB to Verify Half Adder  https://www.edaplayground.com/x/ie4d
 
 Day 79: TB to Verify Full adder   https://www.edaplayground.com/x/r_wr
 
+Day 80: TB to Verify 4:1 Multiplexer   https://www.edaplayground.com/x/wCSh
+
 

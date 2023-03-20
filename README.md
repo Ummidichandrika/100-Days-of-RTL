@@ -177,14 +177,15 @@ Day 75- TB Wait Fork
 
 Day 76- TB Automatic Variables https://www.edaplayground.com/x/LayF
 
-Day 77- TB to Verify D-Flipflop  https://www.edaplayground.com/x/VTk5
+Day 77: TB to Verify D-Flipflop  https://www.edaplayground.com/x/VTk5
 
-Day 78 - TB to Verify Half Adder  https://www.edaplayground.com/x/ie4d
+Day 78 :TB to Verify Half Adder  https://www.edaplayground.com/x/ie4d
 
 Day 79: TB to Verify Full adder   https://www.edaplayground.com/x/r_wr
 
 Day 80: TB to Verify 4:1 Multiplexer   https://www.edaplayground.com/x/wCSh
 
-Day 81- TB to Verify Full Subtractor   https://www.edaplayground.com/x/k_Lu
+Day 81: TB to Verify Full Subtractor   https://www.edaplayground.com/x/k_Lu
 
+day 82: TB to Verify 3:8 Decoder   https://www.edaplayground.com/x/YuXi 
 

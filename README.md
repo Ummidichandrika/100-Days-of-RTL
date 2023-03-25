@@ -190,3 +190,5 @@ Day 81: TB to Verify Full Subtractor   https://www.edaplayground.com/x/k_Lu
 day 82: TB to Verify 3:8 Decoder   https://www.edaplayground.com/x/YuXi 
 
 Day 83: TB to Verify Priority Encoder   https://www.edaplayground.com/x/Q4iB
+
+Day 84- TB to Verify 4:1 Demultiplexer  https://www.edaplayground.com/x/8dQ8

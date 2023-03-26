@@ -191,4 +191,6 @@ day 82: TB to Verify 3:8 Decoder   https://www.edaplayground.com/x/YuXi
 
 Day 83: TB to Verify Priority Encoder   https://www.edaplayground.com/x/Q4iB
 
-Day 84- TB to Verify 1:4 Demultiplexer  https://www.edaplayground.com/x/8dQ8
+Day 84: TB to Verify 1:4 Demultiplexer  https://www.edaplayground.com/x/8dQ8
+
+Day 85 : TB to Verify FIFO  https://www.edaplayground.com/x/SJB6

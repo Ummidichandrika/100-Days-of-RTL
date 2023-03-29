@@ -196,3 +196,5 @@ Day 84: TB to Verify 1:4 Demultiplexer  https://www.edaplayground.com/x/8dQ8
 Day 85 : TB to Verify FIFO  https://www.edaplayground.com/x/SJB6
 
 Day 86: TB to Verify Binary to Gray Converter  https://www.edaplayground.com/x/UtKp
+
+Day 87: TB to Verify Gray to Binary Converter   https://www.edaplayground.com/x/hr25

@@ -202,3 +202,5 @@ Day 87: TB to Verify Gray to Binary Converter   https://www.edaplayground.com/x/
 Day 88: TB to Verify Tristate Buffer   https://www.edaplayground.com/x/LC6j
 
 Day 89: TB to Verify T-Flipflop  https://www.edaplayground.com/x/dXjN
+
+Day 90: TB to Verify ALU  https://www.edaplayground.com/x/fD9y

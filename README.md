@@ -204,3 +204,5 @@ Day 88: TB to Verify Tristate Buffer   https://www.edaplayground.com/x/LC6j
 Day 89: TB to Verify T-Flipflop  https://www.edaplayground.com/x/dXjN
 
 Day 90: TB to Verify ALU  https://www.edaplayground.com/x/fD9y
+
+Day 91- TB to Verify Self Reloading Counter  https://www.edaplayground.com/x/e34Q

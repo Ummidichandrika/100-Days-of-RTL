@@ -206,3 +206,5 @@ Day 89: TB to Verify T-Flipflop  https://www.edaplayground.com/x/dXjN
 Day 90: TB to Verify ALU  https://www.edaplayground.com/x/fD9y
 
 Day 91- TB to Verify Self Reloading Counter  https://www.edaplayground.com/x/e34Q
+
+Day 92" TB to Verify Priority Arbiter  https://www.edaplayground.com/x/U_qk

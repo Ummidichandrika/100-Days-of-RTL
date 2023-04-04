@@ -210,3 +210,7 @@ Day 91- TB to Verify Self Reloading Counter  https://www.edaplayground.com/x/e34
 Day 92" TB to Verify Priority Arbiter  https://www.edaplayground.com/x/U_qk
 
 Day 93 :  Constraint to generate the below pattern in dynamic array ? 0 1 0 2 0 3 0 4 0 5 0   https://www.edaplayground.com/x/Av5M
+
+Day 94 : Constraint for 2D 3D for dynamic array to print consecutive elements  https://www.edaplayground.com/x/gQjb
+
+Day 95 :  Identify how many number of zeros count in an array / number of ones count in an array  https://www.edaplayground.com/x/KL4m

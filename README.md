@@ -125,9 +125,9 @@ Day 50: Round Robin Arbiter
 
                                                       SYSTEM VERILOG
 
-Day 51: TB Hello World
+Day 51: TB Hello World   https://www.edaplayground.com/x/KMMH
 
-Day 52: TB LOgic Data Type
+Day 52: TB LOgic Data Type   https://www.edaplayground.com/x/fhpJ
 
 Day 53: TB Unpacked Struct Data Type
 
@@ -135,11 +135,11 @@ Day 54:TB Packed Struct Data Type
 
 Day 55: TB Arrays
 
-Day 56: TB Functions
+Day 56: TB Functions  https://www.edaplayground.com/x/KCDd
 
-Day 57: TB Tasks
+Day 57: TB Tasks   https://www.edaplayground.com/x/8wRJ
 
-Day 58: TB Interfaces
+Day 58: TB Interfaces   https://www.edaplayground.com/x/WXZj
 
 Day 59: TB Object Assignment & Shallow Copy Methods   https://www.edaplayground.com/x/7qUQ
 

@@ -216,3 +216,6 @@ Day 94 : Constraint for 2D 3D for dynamic array to print consecutive elements  h
 Day 95 :  Identify how many number of zeros count in an array / number of ones count in an array  https://www.edaplayground.com/x/KL4m
 
 Day 96: TB Constraint to generate a pattern 0102030405    https://www.edaplayground.com/x/KM2L
+
+Day 97: TB Constraint to generate unique numbers between 99 to 100    https://www.edaplayground.com/x/KM3D 
+

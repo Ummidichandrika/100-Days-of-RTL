@@ -219,3 +219,7 @@ Day 96: TB Constraint to generate a pattern 0102030405    https://www.edaplaygro
 
 Day 97: TB Constraint to generate unique numbers between 99 to 100    https://www.edaplayground.com/x/KM3D 
 
+Day 98:  TB Constraint to Generate Pattern 0, 2, 1, 3, 4, 6, 5, 7, 8   https://www.edaplayground.com/x/fAiN
+
+Day 99: TB to Verify CoverGroup in Functional Coverage  https://www.edaplayground.com/x/k9CG
+

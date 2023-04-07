@@ -223,3 +223,5 @@ Day 98:  TB Constraint to Generate Pattern 0, 2, 1, 3, 4, 6, 5, 7, 8   https://w
 
 Day 99: TB to Verify CoverGroup in Functional Coverage  https://www.edaplayground.com/x/k9CG
 
+Day 100: Functional Coverage  https://www.edaplayground.com/x/QSij
+

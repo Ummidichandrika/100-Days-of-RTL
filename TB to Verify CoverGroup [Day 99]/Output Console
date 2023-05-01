@@ -1,0 +1,14 @@
+KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: [40] mode=0 vari=1
+# KERNEL: [80] mode=1 vari=3
+# KERNEL: [120] mode=1 vari=5
+# KERNEL: [160] mode=1 vari=2
+# KERNEL: [200] mode=1 vari=5
+# KERNEL: Coverage = 50.00 %
+# RUNTIME: Info: RUNTIME_0068 testbench.sv (35): $finish called.
+# KERNEL: Time: 500 ns,  Iteration: 0,  Instance: /tb,  Process: @INITIAL#33_2@.
+# KERNEL: stopped at time: 500 ns
+# VSIM: Simulation has finished. There are no more test vectors to simulate.
+# ACDB: Covergroup Coverage data has been saved to "fcover.acdb" database.
+# VSIM: Simulation has finished.
+Done

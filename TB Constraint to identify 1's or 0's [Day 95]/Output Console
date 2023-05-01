@@ -1,0 +1,15 @@
+ KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+# KERNEL: value : 01100011,	 number of zeros :  4
+# KERNEL: value : 10001011,	 number of zeros :  4
+# KERNEL: value : 10110000,	 number of zeros :  5
+# KERNEL: value : 10111010,	 number of zeros :  3
+# KERNEL: value : 01001101,	 number of zeros :  4
+# KERNEL: ------another way---------
+# KERNEL: value : 11001000,	 number of zeros :  5
+# KERNEL: value : 10101111,	 number of zeros :  2
+# KERNEL: value : 10100000,	 number of zeros :  6
+# KERNEL: value : 10111000,	 number of zeros :  4
+# KERNEL: value : 11100101,	 number of zeros :  3
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: Simulation has finished.
+DoneOutput

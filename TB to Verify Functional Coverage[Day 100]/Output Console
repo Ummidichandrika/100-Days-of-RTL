@@ -1,0 +1,11 @@
+ KERNEL: a=14 b=5 c=8 d=2 e=3 f=3 g=1
+# KERNEL: a=13 b=9 c=14 d=14 e=1 f=6 g=1
+# KERNEL: a=13 b=2 c=8 d=30 e=0 f=7 g=3
+# KERNEL: a=14 b=11 c=15 d=13 e=2 f=4 g=3
+# KERNEL: a=13 b=9 c=2 d=31 e=0 f=1 g=1
+# KERNEL: a=1 b=4 c=8 d=16 e=3 f=6 g=0
+# ACDB: Error: ACDB_0012 testbench.sv (73): Illegal bin 'g4' was hit with value '0' at iteration #99 of covergroup sampling. It will have no impact on the coverage statistics. HDL instance: "/tb". Covergroup type: "cg_6", covergroup instance: "<UNNAMED1>", coverpoint: "label_6".
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# ACDB: Covergroup Coverage data has been saved to "fcover.acdb" database.
+# VSIM: Simulation has finished.
+Done

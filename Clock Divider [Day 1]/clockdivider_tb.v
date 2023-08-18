@@ -9,6 +9,7 @@ module clockdivider_tb;
 	wire divideby2;
 	wire divideby4;
 	wire divideby8;
+	wire divideby16;
 
 	// Instantiate the Unit Under Test (UUT)
 	clockdivider uut (
@@ -16,6 +17,7 @@ module clockdivider_tb;
 		.divideby2(divideby2), 
 		.divideby4(divideby4), 
 		.divideby8(divideby8), 
+		.divideby16(divideby16),
 		.rst(rst)
 	);
 
